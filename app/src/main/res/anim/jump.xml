@@ -3,9 +3,9 @@
     android:shareInterpolator="false">
     <scale
         android:interpolator="@android:anim/accelerate_decelerate_interpolator"
-        android:fromXScale="0.0"
+        android:fromXScale="0.5"
         android:toXScale="1.0"
-        android:fromYScale="0.0"
+        android:fromYScale="0.5"
         android:toYScale="1.0"
         android:pivotX="50%"
         android:pivotY="50%"
